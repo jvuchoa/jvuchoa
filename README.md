@@ -11,5 +11,8 @@
 
 ### Social
 
+[![gmail](https://img.shields.io/badge/Gmail-525252?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contato@joaovictoruchoa01.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jvuchoa)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-uch%C3%B4a-5a15a525a/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-uch%C3%B4a-5a15a525a/)
+
+
