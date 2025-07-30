@@ -16,10 +16,12 @@
 - Internet Systems (Completed)  
 - Postgraduate in Software Engineering
   
-###
+###   
 
 ### Skills 
+
 <div style="display: inline_block"><br/> 
+
   
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-%2300C300?style=for-the-badge&logo=spring&logoColor=white">
