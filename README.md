@@ -1,11 +1,21 @@
 <img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2400&height=120&section=header"/>
 <br clear="both">
 
-<h1 align="left">Olá ! Seja Bem Vindo (a) ao meu Github</h1>
+<h1 align="left">Hello, Welcome to my GitHub!</h1>
 
 ###
 
-<h5 align="left">Meu nome é João Victor tenho 20 anos e sou Desenvolvedor Back End Jr.</h5>
+<h5 align="left">-Hi, I'm João Victor – a Junior Back-End Developer aspiring to become Full-Stack.</h5>
+
+
+<h2 align="left">About me</h2>
+
+###
+
+ **Education (Ongoing & Completed):**  
+- Internet Systems (Completed)  
+- Postgraduate in Software Engineering  
+
 
 
 
