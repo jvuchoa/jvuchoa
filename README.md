@@ -14,8 +14,9 @@
 
  **Education (Ongoing & Completed):**  
 - Internet Systems (Completed)  
-- Postgraduate in Software Engineering  
-
+- Postgraduate in Software Engineering
+  
+###
 
 ### Skills 
 <div style="display: inline_block"><br/> 
