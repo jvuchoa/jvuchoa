@@ -1,4 +1,11 @@
 <img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2400&height=120&section=header"/>
+<br clear="both">
+
+<h1 align="left">Olá ! Seja Bem Vindo (a) ao meu Github</h1>
+
+###
+
+<h5 align="left">Meu nome é João Victor tenho 20 anos e sou Desenvolvedor Back End Jr.</h5>
 
 
 
@@ -17,7 +24,6 @@
 ### Status
 <div>  
   <a href="https://github.com/jvuchoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvuchoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvuchoa&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
